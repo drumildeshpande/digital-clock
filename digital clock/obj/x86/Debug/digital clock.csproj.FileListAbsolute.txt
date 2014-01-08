@@ -1,0 +1,18 @@
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\bin\Debug\digital clock.exe
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\bin\Debug\digital clock.pdb
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Debug\digital_clock.Form1.resources
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Debug\digital_clock.Properties.Resources.resources
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Debug\digital clock.exe
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Debug\digital clock.pdb
+C:\Users\sam\documents\visual studio 2010\Projects\digital clock\digital clock\obj\x86\Debug\digital clock.exe
+C:\Users\sam\documents\visual studio 2010\Projects\digital clock\digital clock\obj\x86\Debug\digital clock.pdb
+C:\Users\sam\documents\visual studio 2010\Projects\digital clock\digital clock\bin\Debug\digital clock.exe
+C:\Users\sam\documents\visual studio 2010\Projects\digital clock\digital clock\bin\Debug\digital clock.pdb
+C:\Users\sam\documents\visual studio 2010\Projects\digital clock\digital clock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sam\documents\visual studio 2010\Projects\digital clock\digital clock\obj\x86\Debug\digital_clock.Form1.resources
+C:\Users\sam\documents\visual studio 2010\Projects\digital clock\digital clock\obj\x86\Debug\digital_clock.Properties.Resources.resources
+C:\Users\sam\documents\visual studio 2010\Projects\digital clock\digital clock\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sam\documents\visual studio 2010\Projects\digital clock\digital clock\obj\x86\Debug\GenerateResource.write.1.tlog

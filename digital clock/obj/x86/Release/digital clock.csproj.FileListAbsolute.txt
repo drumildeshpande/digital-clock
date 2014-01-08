@@ -1,0 +1,9 @@
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\bin\Release\digital clock.exe
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\bin\Release\digital clock.pdb
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Release\digital_clock.Form1.resources
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Release\digital_clock.Properties.Resources.resources
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Release\digital clock.exe
+C:\Users\sam\AppData\Local\Temporary Projects\digital clock\obj\x86\Release\digital clock.pdb
